@@ -86,45 +86,45 @@
 		<!--/ End Footer Area -->
 		
 		<!-- jquery Min JS -->
-        <script src="<?php echo get_template_directory_uri(); ?>/js/jquery.min.js"></script>
+        <script src="<?php echo get_template_directory_uri(); ?>/assets/js/jquery.min.js"></script>
 		<!-- jquery Migrate JS -->
-		<script src="<?php echo get_template_directory_uri(); ?>/js/jquery-migrate-3.0.0.js"></script>
+		<script src="<?php echo get_template_directory_uri(); ?>/assets/js/jquery-migrate-3.0.0.js"></script>
 		<!-- jquery Ui JS -->
-		<script src="<?php echo get_template_directory_uri(); ?>/js/jquery-ui.min.js"></script>
+		<script src="<?php echo get_template_directory_uri(); ?>/assets/js/jquery-ui.min.js"></script>
 		<!-- Easing JS -->
-        <script src="<?php echo get_template_directory_uri(); ?>/js/easing.js"></script>
+        <script src="<?php echo get_template_directory_uri(); ?>/assets/js/easing.js"></script>
 		<!-- Color JS -->
-		<script src="<?php echo get_template_directory_uri(); ?>/js/colors.js"></script>
+		<script src="<?php echo get_template_directory_uri(); ?>/assets/js/colors.js"></script>
 		<!-- Popper JS -->
-		<script src="<?php echo get_template_directory_uri(); ?>/js/popper.min.js"></script>
+		<script src="<?php echo get_template_directory_uri(); ?>/assets/js/popper.min.js"></script>
 		<!-- Bootstrap Datepicker JS -->
-		<script src="<?php echo get_template_directory_uri(); ?>/js/bootstrap-datepicker.js"></script>
+		<script src="<?php echo get_template_directory_uri(); ?>/assets/js/bootstrap-datepicker.js"></script>
 		<!-- Jquery Nav JS -->
-        <script src="<?php echo get_template_directory_uri(); ?>/js/jquery.nav.js"></script>
+        <script src="<?php echo get_template_directory_uri(); ?>/assets/js/jquery.nav.js"></script>
 		<!-- Slicknav JS -->
-		<script src="<?php echo get_template_directory_uri(); ?>/js/slicknav.min.js"></script>
+		<script src="<?php echo get_template_directory_uri(); ?>/assets/js/slicknav.min.js"></script>
 		<!-- ScrollUp JS -->
-        <script src="<?php echo get_template_directory_uri(); ?>/js/jquery.scrollUp.min.js"></script>
+        <script src="<?php echo get_template_directory_uri(); ?>/assets/js/jquery.scrollUp.min.js"></script>
 		<!-- Niceselect JS -->
-		<script src="<?php echo get_template_directory_uri(); ?>/js/niceselect.js"></script>
+		<script src="<?php echo get_template_directory_uri(); ?>/assets/js/niceselect.js"></script>
 		<!-- Tilt Jquery JS -->
-		<script src="<?php echo get_template_directory_uri(); ?>/js/tilt.jquery.min.js"></script>
+		<script src="<?php echo get_template_directory_uri(); ?>/assets/js/tilt.jquery.min.js"></script>
 		<!-- Owl Carousel JS -->
-        <script src="<?php echo get_template_directory_uri(); ?>/js/owl-carousel.js"></script>
+        <script src="<?php echo get_template_directory_uri(); ?>/assets/js/owl-carousel.js"></script>
 		<!-- counterup JS -->
-		<script src="<?php echo get_template_directory_uri(); ?>/js/jquery.counterup.min.js"></script>
+		<script src="<?php echo get_template_directory_uri(); ?>/assets/js/jquery.counterup.min.js"></script>
 		<!-- Steller JS -->
-		<script src="<?php echo get_template_directory_uri(); ?>/js/steller.js"></script>
+		<script src="<?php echo get_template_directory_uri(); ?>/assets/js/steller.js"></script>
 		<!-- Wow JS -->
-		<script src="<?php echo get_template_directory_uri(); ?>/js/wow.min.js"></script>
+		<script src="<?php echo get_template_directory_uri(); ?>/assets/js/wow.min.js"></script>
 		<!-- Magnific Popup JS -->
-		<script src="<?php echo get_template_directory_uri(); ?>/js/jquery.magnific-popup.min.js"></script>
+		<script src="<?php echo get_template_directory_uri(); ?>/assets/js/jquery.magnific-popup.min.js"></script>
 		<!-- Counter Up CDN JS -->
 		<script src="http://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script>
 		<!-- Bootstrap JS -->
-		<script src="<?php echo get_template_directory_uri(); ?>/js/bootstrap.min.js"></script>
+		<script src="<?php echo get_template_directory_uri(); ?>/assets/js/bootstrap.min.js"></script>
 		<!-- Main JS -->
-		<script src="<?php echo get_template_directory_uri(); ?>/js/main.js"></script>
+		<script src="<?php echo get_template_directory_uri(); ?>/assets/js/main.js"></script>
 
         <?php wp_footer(); ?>
     </body>

@@ -106,7 +106,7 @@
 		<section class="slider">
 			<div class="hero-slider">
 				<!-- Start Single Slider -->
-				<div class="single-slider" style="background-image:url('<?php echo get_template_directory_uri(); ?>/img/slider2.jpg')">
+				<div class="single-slider" style="background-image:url('<?php echo get_template_directory_uri(); ?>/assets/img/slider2.jpg')">
 					<div class="container">
 						<div class="row">
 							<div class="col-lg-7">
@@ -124,7 +124,7 @@
 				</div>
 				<!-- End Single Slider -->
 				<!-- Start Single Slider -->
-				<div class="single-slider" style="background-image:url('<?php echo get_template_directory_uri(); ?>/img/slider.jpg')">
+				<div class="single-slider" style="background-image:url('<?php echo get_template_directory_uri(); ?>/assets/img/slider.jpg')">
 					<div class="container">
 						<div class="row">
 							<div class="col-lg-7">
@@ -142,7 +142,7 @@
 				</div>
 				<!-- Start End Slider -->
 				<!-- Start Single Slider -->
-				<div class="single-slider" style="background-image:url('img/slider3.jpg')">
+				<div class="single-slider" style="background-image:url('<?php echo get_template_directory_uri(); ?>/assets/img/slider3.jpg')">
 					<div class="container">
 						<div class="row">
 							<div class="col-lg-7">
@@ -233,7 +233,7 @@
 					<div class="col-lg-12">
 						<div class="section-title">
 							<h2>We Are Always Ready to Help You & Your Family</h2>
-							<img src="img/section-img.png" alt="#">
+							<img src="<?php echo get_template_directory_uri(); ?>/assets/img/section-img.png" alt="#">
 							<p>Lorem ipsum dolor sit amet consectetur adipiscing elit praesent aliquet. pretiumts</p>
 						</div>
 					</div>
@@ -337,7 +337,7 @@
 					<div class="col-lg-12">
 						<div class="section-title">
 							<h2>We Offer Different Services To Improve Your Health</h2>
-							<img src="img/section-img.png" alt="#">
+							<img src="<?php echo get_template_directory_uri(); ?>/assets/img/section-img.png" alt="#">
 							<p>Lorem ipsum dolor sit amet consectetur adipiscing elit praesent aliquet. pretiumts</p>
 						</div>
 					</div>
@@ -417,7 +417,7 @@
 					<div class="col-lg-12">
 						<div class="section-title">
 							<h2>We Maintain Cleanliness Rules Inside Our Hospital</h2>
-							<img src="img/section-img.png" alt="#">
+							<img src="<?php echo get_template_directory_uri(); ?>/assets/img/section-img.png" alt="#">
 							<p>Lorem ipsum dolor sit amet consectetur adipiscing elit praesent aliquet. pretiumts</p>
 						</div>
 					</div>
@@ -428,35 +428,35 @@
 					<div class="col-lg-12 col-12">
 						<div class="owl-carousel portfolio-slider">
 							<div class="single-pf">
-								<img src="img/pf1.jpg" alt="#">
+								<img src="<?php echo get_template_directory_uri(); ?>/assets/img/pf1.jpg" alt="#">
 								<a href="portfolio-details.html" class="btn">View Details</a>
 							</div>
 							<div class="single-pf">
-								<img src="img/pf2.jpg" alt="#">
+								<img src="<?php echo get_template_directory_uri(); ?>/assets/img/pf2.jpg" alt="#">
 								<a href="portfolio-details.html" class="btn">View Details</a>
 							</div>
 							<div class="single-pf">
-								<img src="img/pf3.jpg" alt="#">
+								<img src="<?php echo get_template_directory_uri(); ?>/assets/img/pf3.jpg" alt="#">
 								<a href="portfolio-details.html" class="btn">View Details</a>
 							</div>
 							<div class="single-pf">
-								<img src="img/pf4.jpg" alt="#">
+								<img src="<?php echo get_template_directory_uri(); ?>/assets/img/pf4.jpg" alt="#">
 								<a href="portfolio-details.html" class="btn">View Details</a>
 							</div>
 							<div class="single-pf">
-								<img src="img/pf1.jpg" alt="#">
+								<img src="<?php echo get_template_directory_uri(); ?>/assets/img/pf1.jpg" alt="#">
 								<a href="portfolio-details.html" class="btn">View Details</a>
 							</div>
 							<div class="single-pf">
-								<img src="img/pf2.jpg" alt="#">
+								<img src="<?php echo get_template_directory_uri(); ?>/assets/img/pf2.jpg" alt="#">
 								<a href="portfolio-details.html" class="btn">View Details</a>
 							</div>
 							<div class="single-pf">
-								<img src="img/pf3.jpg" alt="#">
+								<img src="<?php echo get_template_directory_uri(); ?>/assets/img/pf3.jpg" alt="#">
 								<a href="portfolio-details.html" class="btn">View Details</a>
 							</div>
 							<div class="single-pf">
-								<img src="img/pf4.jpg" alt="#">
+								<img src="<?php echo get_template_directory_uri(); ?>/assets/img/pf4.jpg" alt="#">
 								<a href="portfolio-details.html" class="btn">View Details</a>
 							</div>
 						</div>
@@ -473,7 +473,7 @@
 					<div class="col-lg-12">
 						<div class="section-title">
 							<h2>We Offer Different Services To Improve Your Health</h2>
-							<img src="img/section-img.png" alt="#">
+							<img src="<?php echo get_template_directory_uri(); ?>/assets/img/section-img.png" alt="#">
 							<p>Lorem ipsum dolor sit amet consectetur adipiscing elit praesent aliquet. pretiumts</p>
 						</div>
 					</div>
@@ -545,7 +545,7 @@
 					<div class="col-lg-12">
 						<div class="section-title">
 							<h2>We Provide You The Best Treatment In Resonable Price</h2>
-							<img src="img/section-img.png" alt="#">
+							<img src="<?php echo get_template_directory_uri(); ?>/assets/img/section-img.png" alt="#">
 							<p>Lorem ipsum dolor sit amet consectetur adipiscing elit praesent aliquet. pretiumts</p>
 						</div>
 					</div>
@@ -649,7 +649,7 @@
 					<div class="col-lg-12">
 						<div class="section-title">
 							<h2>Keep up with Our Most Recent Medical News.</h2>
-							<img src="img/section-img.png" alt="#">
+							<img src="<?php echo get_template_directory_uri(); ?>/assets/img/section-img.png" alt="#">
 							<p>Lorem ipsum dolor sit amet consectetur adipiscing elit praesent aliquet. pretiumts</p>
 						</div>
 					</div>
@@ -659,7 +659,7 @@
 						<!-- Single Blog -->
 						<div class="single-news">
 							<div class="news-head">
-								<img src="img/blog1.jpg" alt="#">
+								<img src="<?php echo get_template_directory_uri(); ?>/assets/img/blog1.jpg" alt="#">
 							</div>
 							<div class="news-body">
 								<div class="news-content">
@@ -675,7 +675,7 @@
 						<!-- Single Blog -->
 						<div class="single-news">
 							<div class="news-head">
-								<img src="img/blog2.jpg" alt="#">
+								<img src="<?php echo get_template_directory_uri(); ?>/assets/img/blog2.jpg" alt="#">
 							</div>
 							<div class="news-body">
 								<div class="news-content">
@@ -691,7 +691,7 @@
 						<!-- Single Blog -->
 						<div class="single-news">
 							<div class="news-head">
-								<img src="img/blog3.jpg" alt="#">
+								<img src="<?php echo get_template_directory_uri(); ?>/assets/img/blog3.jpg" alt="#">
 							</div>
 							<div class="news-body">
 								<div class="news-content">
@@ -715,31 +715,31 @@
 					<div class="col-lg-12 col-md-12 col-12">
 						<div class="owl-carousel clients-slider">
 							<div class="single-clients">
-								<img src="img/client1.png" alt="#">
+								<img src="<?php echo get_template_directory_uri(); ?>/assets/img/client1.png" alt="#">
 							</div>
 							<div class="single-clients">
-								<img src="img/client2.png" alt="#">
+								<img src="<?php echo get_template_directory_uri(); ?>/assets/img/client2.png" alt="#">
 							</div>
 							<div class="single-clients">
-								<img src="img/client3.png" alt="#">
+								<img src="<?php echo get_template_directory_uri(); ?>/assets/img/client3.png" alt="#">
 							</div>
 							<div class="single-clients">
-								<img src="img/client4.png" alt="#">
+								<img src="<?php echo get_template_directory_uri(); ?>/assets/img/client4.png" alt="#">
 							</div>
 							<div class="single-clients">
-								<img src="img/client5.png" alt="#">
+								<img src="<?php echo get_template_directory_uri(); ?>/assets/img/client5.png" alt="#">
 							</div>
 							<div class="single-clients">
-								<img src="img/client1.png" alt="#">
+								<img src="<?php echo get_template_directory_uri(); ?>/assets/img/client1.png" alt="#">
 							</div>
 							<div class="single-clients">
-								<img src="img/client2.png" alt="#">
+								<img src="<?php echo get_template_directory_uri(); ?>/assets/img/client2.png" alt="#">
 							</div>
 							<div class="single-clients">
-								<img src="img/client3.png" alt="#">
+								<img src="<?php echo get_template_directory_uri(); ?>/assets/img/client3.png" alt="#">
 							</div>
 							<div class="single-clients">
-								<img src="img/client4.png" alt="#">
+								<img src="<?php echo get_template_directory_uri(); ?>/assets/img/client4.png" alt="#">
 							</div>
 						</div>
 					</div>
@@ -755,7 +755,7 @@
 					<div class="col-lg-12">
 						<div class="section-title">
 							<h2>We Are Always Ready to Help You. Book An Appointment</h2>
-							<img src="img/section-img.png" alt="#">
+							<img src="<?php echo get_template_directory_uri(); ?>/assets/img/section-img.png" alt="#">
 							<p>Lorem ipsum dolor sit amet consectetur adipiscing elit praesent aliquet. pretiumts</p>
 						</div>
 					</div>
@@ -831,7 +831,7 @@
 					</div>
 					<div class="col-lg-6 col-md-12 ">
 						<div class="appointment-image">
-							<img src="img/contact-img.png" alt="#">
+							<img src="<?php echo get_template_directory_uri(); ?>/assets/img/contact-img.png" alt="#">
 						</div>
 					</div>
 				</div>
